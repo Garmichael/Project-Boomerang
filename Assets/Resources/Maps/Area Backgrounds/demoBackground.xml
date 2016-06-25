@@ -1,0 +1,13 @@
+<BackgroundLayer>
+    <BackgroundStrips>
+
+        <BackgroundStrip>
+            <Image>cave</Image>
+        </BackgroundStrip>
+
+        <BackgroundStrip>
+            <Image>crystals</Image>
+        </BackgroundStrip>
+
+    </BackgroundStrips>
+</BackgroundLayer>

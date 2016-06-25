@@ -1,0 +1,31 @@
+<Area>
+    <Maps>
+
+        <Map>
+            <Name>demoMap</Name>
+            <X-Start>0</X-Start>
+            <Y-Start>0</Y-Start>
+        </Map>
+
+        <Map>
+            <Name>demoMap</Name>
+            <X-Start>188</X-Start>
+            <Y-Start>0</Y-Start>
+        </Map>
+
+    </Maps>
+
+    <Backgrounds>
+        <BackgroundLayer>
+            <Name>demoBackground</Name>
+            <X-Parallax>1</X-Parallax>
+            <Y-Parallax>1</Y-Parallax>
+        </BackgroundLayer>
+    </Backgrounds>
+
+    <Foregrounds>
+        <ForegroundLayer>
+
+        </ForegroundLayer>
+    </Foregrounds>
+</Area>

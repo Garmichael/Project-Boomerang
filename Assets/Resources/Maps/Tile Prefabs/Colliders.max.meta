@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: f4dc31992cadecf468330e94c2814378
+timeCreated: 1459442520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: slope_1x1_notch
+    100002: 'slope_1x1_surface '
+    100004: slope_1x2_notch
+    100006: slope_1x2_surface
+    100008: slope_1x3_notch_a
+    100010: slope_1x3_notch_b
+    100012: slope_1x3_surface_a
+    100014: slope_1x3_surface_b
+    100016: slope_1x4_notch_a
+    100018: slope_1x4_notch_b
+    100020: slope_1x4_surface_a
+    100022: slope_1x4_surface_b
+    100024: solid
+    100026: solid_elbow
+    100028: solid_half
+    100030: solid_quarter
+    100032: //RootNode
+    100034: Object001
+    100036: slope_1x2_surface_a
+    100038: slope_1x2_surface_b
+    100040: slope_1x4_surface_c
+    100042: slope_1x3_notch
+    100044: slope_1x3_surface_c
+    100046: slope_1x4_notch
+    100048: slope_1x4_surface_d
+    400000: slope_1x1_notch
+    400002: 'slope_1x1_surface '
+    400004: slope_1x2_notch
+    400006: slope_1x2_surface
+    400008: slope_1x3_notch_a
+    400010: slope_1x3_notch_b
+    400012: slope_1x3_surface_a
+    400014: slope_1x3_surface_b
+    400016: slope_1x4_notch_a
+    400018: slope_1x4_notch_b
+    400020: slope_1x4_surface_a
+    400022: slope_1x4_surface_b
+    400024: solid
+    400026: solid_elbow
+    400028: solid_half
+    400030: solid_quarter
+    400032: //RootNode
+    400034: Object001
+    400036: slope_1x2_surface_a
+    400038: slope_1x2_surface_b
+    400040: slope_1x4_surface_c
+    400042: slope_1x3_notch
+    400044: slope_1x3_surface_c
+    400046: slope_1x4_notch
+    400048: slope_1x4_surface_d
+    2300000: slope_1x1_notch
+    2300002: 'slope_1x1_surface '
+    2300004: slope_1x2_notch
+    2300006: slope_1x2_surface
+    2300008: slope_1x3_notch_a
+    2300010: slope_1x3_notch_b
+    2300012: slope_1x3_surface_a
+    2300014: slope_1x3_surface_b
+    2300016: slope_1x4_notch_a
+    2300018: slope_1x4_notch_b
+    2300020: slope_1x4_surface_a
+    2300022: slope_1x4_surface_b
+    2300024: solid
+    2300026: solid_elbow
+    2300028: solid_half
+    2300030: solid_quarter
+    2300032: Object001
+    2300034: slope_1x2_surface_a
+    2300036: slope_1x2_surface_b
+    2300038: slope_1x4_surface_c
+    2300040: slope_1x3_notch
+    2300042: slope_1x3_surface_c
+    2300044: slope_1x4_notch
+    2300046: slope_1x4_surface_d
+    3300000: slope_1x1_notch
+    3300002: 'slope_1x1_surface '
+    3300004: slope_1x2_notch
+    3300006: slope_1x2_surface
+    3300008: slope_1x3_notch_a
+    3300010: slope_1x3_notch_b
+    3300012: slope_1x3_surface_a
+    3300014: slope_1x3_surface_b
+    3300016: slope_1x4_notch_a
+    3300018: slope_1x4_notch_b
+    3300020: slope_1x4_surface_a
+    3300022: slope_1x4_surface_b
+    3300024: solid
+    3300026: solid_elbow
+    3300028: solid_half
+    3300030: solid_quarter
+    3300032: Object001
+    3300034: slope_1x2_surface_a
+    3300036: slope_1x2_surface_b
+    3300038: slope_1x4_surface_c
+    3300040: slope_1x3_notch
+    3300042: slope_1x3_surface_c
+    3300044: slope_1x4_notch
+    3300046: slope_1x4_surface_d
+    4300000: 'slope_1x1_surface '
+    4300002: slope_1x1_notch
+    4300004: slope_1x2_surface
+    4300006: slope_1x2_notch
+    4300008: slope_1x3_surface_a
+    4300010: slope_1x3_notch_a
+    4300012: slope_1x3_notch_b
+    4300014: slope_1x3_surface_b
+    4300016: slope_1x4_surface_a
+    4300018: slope_1x4_notch_a
+    4300020: slope_1x4_notch_b
+    4300022: slope_1x4_surface_b
+    4300024: solid
+    4300026: solid_half
+    4300028: solid_quarter
+    4300030: solid_elbow
+    4300032: Object001
+    4300034: slope_1x2_surface_a
+    4300036: slope_1x2_surface_b
+    4300038: slope_1x4_surface_c
+    4300040: slope_1x3_notch
+    4300042: slope_1x3_surface_c
+    4300044: slope_1x4_notch
+    4300046: slope_1x4_surface_d
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

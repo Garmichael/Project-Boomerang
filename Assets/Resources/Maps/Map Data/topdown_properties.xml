@@ -1,0 +1,22 @@
+<Map>
+    <Layers>
+        <Layer>
+            <Name>main</Name>
+            <LayerId>10</LayerId>
+            <Tilesheet>tilesheet_demo</Tilesheet>
+            <UseColliders>true</UseColliders>
+        </Layer>
+
+    </Layers>
+
+    <Views>
+        <View>
+            <Camera-Transition-Mode>blip</Camera-Transition-Mode>
+            <X-Start>0</X-Start>
+            <Y-State>0</Y-State>
+            <X-End>50</X-End>
+            <Y-End>50</Y-End>
+        </View>
+    </Views>
+
+</Map>

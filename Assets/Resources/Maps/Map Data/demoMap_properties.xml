@@ -1,0 +1,56 @@
+<Map>
+    <Layers>
+        <Layer>
+            <Name>background0</Name>
+            <LayerId>10</LayerId>
+            <Tilesheet>tilesheet_demo</Tilesheet>
+            <UseColliders>true</UseColliders>
+        </Layer>
+
+        <Layer>
+            <Name>background1</Name>
+            <LayerId>9</LayerId>
+            <Tilesheet>tilesheet_demoProps</Tilesheet>
+            <UseColliders>false</UseColliders>
+        </Layer>
+
+        <Layer>
+            <Name>foreground0</Name>
+            <LayerId>2</LayerId>
+            <Tilesheet>tilesheet_demoProps</Tilesheet>
+            <UseColliders>false</UseColliders>
+        </Layer>
+
+        <Layer>
+            <Name>foreground1</Name>
+            <LayerId>1</LayerId>
+            <Tilesheet>tilesheet_demoProps</Tilesheet>
+            <UseColliders>false</UseColliders>
+        </Layer>
+    </Layers>
+
+    <Views>
+        <View>
+            <Camera-Transition-Mode>blip</Camera-Transition-Mode>
+            <X-Start>0</X-Start>
+            <Y-State>0</Y-State>
+            <X-End>88</X-End>
+            <Y-End>20</Y-End>
+        </View>
+        <View>
+            <Camera-Transition-Mode>pan</Camera-Transition-Mode>
+            <X-Start>88</X-Start>
+            <Y-State>0</Y-State>
+            <X-End>45</X-End>
+            <Y-End>20</Y-End>
+        </View>
+        <View>
+            <Camera-Transition-Mode>blip</Camera-Transition-Mode>
+            <X-Start>133</X-Start>
+            <Y-State>0</Y-State>
+            <X-End>55</X-End>
+            <Y-End>20</Y-End>
+        </View>
+    </Views>
+
+</Map>
