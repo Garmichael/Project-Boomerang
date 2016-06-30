@@ -120,7 +120,7 @@ public class MapBuilder : MonoBehaviour {
         int.TryParse(mapCel, out TileId);
 
         if(TileId != null && TileId != 0){
-            NewTile = Resources.Load("Maps/Tile Prefabs/BlankTile", typeof(GameObject)) as GameObject;
+            NewTile = Resources.Load("RetroGameKit/Tile Prefabs/BlankTile", typeof(GameObject)) as GameObject;
             NewTile = Instantiate(NewTile, new Vector3(0,0,0), Quaternion.identity) as GameObject;
             NewTileSprite = AllTiles[TileId];
             NewTile.GetComponent<SpriteRenderer>().sprite = NewTileSprite;
@@ -135,7 +135,7 @@ public class MapBuilder : MonoBehaviour {
     }
 
     static GameObject GetResource(string prefabName){
-        return Resources.Load("Maps/Tile Prefabs/" + prefabName, typeof(GameObject)) as GameObject;
+        return Resources.Load("RetroGameKit/Tile Prefabs/" + prefabName, typeof(GameObject)) as GameObject;
     }
 
     static void BuildCollider(string mapCel, string tileType, GameObject NewTile, GameObject Resource, Vector3 position, Quaternion rotation){

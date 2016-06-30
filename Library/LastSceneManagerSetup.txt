@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RetroGameKit/MainScene.unity
+- path: Assets/Resources/RetroGameKit/MainScene.unity
   isLoaded: 1
   isActive: 1
